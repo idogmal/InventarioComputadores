@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Launch App",
+        "request": "launch",
+        "mainClass": "view.JavaFXTest",  // Substitua pelo nome da classe principal do seu projeto
+        "vmArgs": "--module-path C:/Users/nicolas/Documents/javafx-sdk-23 --add-modules javafx.controls,javafx.fxml",
+        "projectName": "InventarioComputadores "  
+      }
+    ]
+  }
+  
